@@ -1,0 +1,86 @@
+Curso de Fotografia Movil
+
+Ajustes para fotografia movil
+    1.Flash Desactivado
+    2.Desactivar Foto animada
+    3.No hacer Zoom digital
+
+Reglas de compocision para moviles
+
+    Regla de Tercios
+        Esta se destaca porque el actor de la fotografia debe estar asignado en algunos de los puntos aureos(Intersecciones)
+
+    Linea del Horizonte 
+        Esta es una linea que se traza imaginariamente en el medio para distingir a peticion del fotografo lo que se quiere resaltar. 
+
+    Espacio Negativo   
+        Tratar de dar la mejor cantidad de espacio. Esto significa dejar buen espacio que refleje un tonalidad de color no tan agresiva
+
+    Encuadre Natural 
+        Es un encuadre generado por el ambiente
+
+    Punto de Fuga 
+        Seria de lineas que convergen hasta perderse en el infinito
+
+Herramientas de Edicion
+    Expocisión
+        Se dice que una fotografia esta perfectamente expuesta cuando se pueden apreciar todos los elementos que el fotografo quiere mostrar
+
+    Contraste
+        Aumenta el constraste de la fotografia. Es decir los tonos claro se pueden ver mucho mas claros, igualmente sucede con los oscuros
+
+    Ajuste
+        Realiza un ajuste del encuadre. Tamaño, rotacion. VSCO permite con la opcion inclinar cambiar el angulo desde donde se tomo la fotografia
+
+    Enfocar
+        Esto es similar a la nitidez. Normalmente se utiliza para darle mas definicion a las fotografias. Este efecto se puede apreciar mas con fotografias arquitectonicas. Este efecto se lleva muy bien con el efecto claridad.
+    
+    Claridad
+        Como la palabra lo dice se utiliza para aclarar la imagenes y resaltar los bordes de la fotografia.
+    
+    Saturacion
+        Permite que controlar la intensidad del color en la fotografia. Si se aumenta la saturacion el color se ve mas vibrante. Si esta se disminuye por completo se pierde la intensidad del color.
+
+    Tono
+        En VSCO se divide en dos parametros los cuales son:
+            Resaltados: Estamos disminuyendo el brillo de los colores de la imagen si aumentamos el resaltado
+            Luminosidad: Volvemos las zonas oscuras un poco mas brillantes.
+    
+    Balance de Blancos
+        En VSCO se divide en dos parametros los cuales son:
+            Temperatura: Esta se en el maximo y minimo. Si aumentamos la estadistica esta tiende a tomar un tono naranja(Tono calido). Si disminuimos tomara un tono azulado(Tono frio).
+            Tinte: Esta encargada de resaltar los tonos verdes si aumentamos la barra el tono verde tomara un tono mas vivo. Si disminuimos el tono verde se inclinara a tener un tono mas hacia el color morado.
+    
+    Tono de Piel
+        Ayuda a destacar la piel segun la ocasion. Podemos variar entre una piel mas rosada o mas "bronceada(Dorada)" 
+    
+    Viñeta
+        Permite oscurecer los bordes para poder destacar el personaje que queramos.
+    
+Herramientas de Edicion Especificas
+    Grano
+        Permite agregar un grano. Con esto quiero decir que agrega un tipo de pixelado. Se úede utilizar para el blanco y negro
+    
+    Difuminar
+        Realiza un lavado color para darle un efecto retro
+    
+    Tono Separado - Split Tone
+        Dependiendo del color podemos realzar las sombras o iluminaciones de la foto. En si escogemos el color que queremos dar a destacar con ayuda de las sombras e iluminaciones. Permite crear nuestors propios filtros
+
+    Bordes
+        Añade bordes en un formato especifico.
+    
+    HSL
+        Ajustar la tonalidad, saturacion y luminosidad de un color en especifico 
+
+Exportacion en VSCO
+    Timeline
+        Muestra todos los cambios que se le realizaron a la fotografia
+    
+    Filtros 
+        Tipicos filtros de la aplicacion.
+    
+    
+
+
+    

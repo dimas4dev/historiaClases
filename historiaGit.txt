@@ -1,0 +1,67 @@
+primer commit, Bro esto se va a modificar. Estoy practicando los comandos de git.
+El dia de hoy se realizo la ejecucion del comando git pull. Este trae todos los cambios de o documentos del servidor remoto y realiza un merge con las ramas actuales de tu repositorio local.
+Se añad nueva linea en la que planeo crear branch para añadrilo al repositorio  local
+}
+El dia de hoy aprendi que existen llaves publicas, privadas y que estas sirven para poder publicar mensajes secretos. Todavia no entiendo la definicion de los mismos pero no demorare en hacerlo. Siento que Git es bastatne facil y requiere de algo de practica nada mas.Bro
+
+La linea siguiente nos permite ver todos los cambios que se han realizado en el proyecto que tenemos activo. tener en cuenta que va a todos los cambios tanto en la rama master como en la branch
+
+git log --all --graph --decorate --oneline
+
+comando Alias "nombre del alias" = "Linea de comando" Sirve para añadirle apodos a las lineas de comandos que te parezcan dificil recordar un ejemplo de esto podria ser lo siguiente
+
+    alias ISLog035 = "./ISlog.sh" -> Al escribir "ISLog035" estoy llamando el tail -f del log del IS
+
+Para poder dar mejor entendimiento a los commits se pueden crear tags. Estos ayudan a diferenciar el id del log del comit. en GitHub este identificador se va añadir en una pestaña aparte llamada tags. Segun como se haya nombrado el tag va a traer los cambios realizados en ese commit.
+
+Este comando permite ver todas las ramas que hay en tu proyecto  tanto en el remoto como en el local. Tambien permite ver los ultimos cambios realizados en los diferentes branch
+git show-branch --all
+
+gitk es un comando para ver el log de forma grafica.
+
+Añadi esta linea desde la carpeta de Anita.
+
+Recordemos que el merge funciona para poder realizar fusiones entre ramas. Normalmente este se realiza en una en el master y el branch que deseemos. Siempre es importante que el master se sube lo que estamos seguros que funciona.
+
+El pull request es increible porque permite comparar branch antes de realizar un commit.
+
+Hoy realice una clonacion en el pc de mi casa a traves de SSH. Primero tuve que configurar una clave SSH en mi PC porque no estaba configurada. Recorde el concepto y la cree. Despues hice una clonacion.
+Añadi nueva linea desde bash hoy en el pc del trabajo
+
+Hoy estoy aprendiendo desde el pc del trabajo que existe un comando llamado Git Stash este mantiene en pausa tu trabajo. Esto quiere decir que puedo navegar entre ramas sin haberle realizado commit a mi trabajo. Esta linea que acabo de agregar la voy a crear en un nuevo branch donde especificamente se creara el git Stash 
+Añado nueva linea desde perfil diferente
+
+¡Comando importante!
+Si no quiero tener docuemtnos basuara dentro de mi repo existe un comando que elimina archivos basura. Este comawndo hay que tener cuidado con el mismo porque vamos a eliminar documentos. Por eso este tiene un argumento que facilita una simulacion de los archivos que se van a eliminar.
+
+Git le importan los archivos no las carpetas
+
+git clean --dry-run
+
+
+git cherry-pick sirve para traer commit antiguos o especificos de una rama especifica. Es una mala practica porque puede causar mucho estragos
+
+Pasos para remendar un commit:
+
+    1. Primero añadimos el cambio que falto al archivo en Git. esto se hace con un git add "nombre de archivo"
+    2. Escribimos el comando git commit --amend  
+Este comando agrega el commit los cambios al ultimo commit realizado.
+
+
+git reflog sirve para salvar el dia cuando todo se va al carajo
+
+este comando se combina con el Git reset --hard. Esto resetea toda la historia. Funciona trayendo las cabeceras y el id de los commits tener en cuenta que es una mala practica 
+
+Git grep sirve para buscar plabras dentro de los archivos
+git log sirve para buscar palabrasdentro de los commits
+
+
+Comando Recursivos Para GitHub
+
+Git shortlog -sn --all --no-merges Muestra todos los commits realizados por todos los miembros del equipo
+git config --global alias.stats "Comando a ajecutar con el alias deseado"
+
+Git Blame -c "Nombre del archivo que queremos revisar" Este comando muestra los cambios realizados por cada persona del equipo
+El argumento --help ayuda a ver el manual de cada comandos
+
+Git branch -a Muestra las ramas remotas y locales del repositorio
